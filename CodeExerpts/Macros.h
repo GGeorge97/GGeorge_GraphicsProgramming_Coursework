@@ -1,0 +1,3 @@
+#define NUM_LIGHTS 4
+#define NUM_SHADOWMAPS 2
+#define EXTRA_BLUR_PASSES 2
